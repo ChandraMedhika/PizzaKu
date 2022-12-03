@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PizzaKu</string>
+    <string name="heroes_name" />
+    <string name="detail" />
+    <string name="pizzas_name" />
+
+    <string name="profile">Profile</string>
+    <string name="beli">Beli</string>
+    <string name="rincian">Rincian</string>
+
+    <string name="content_text">Pizza dengan taburan topping dari irisan buah Alpokat yang disiram dengan saus hitam dengan taburan keju italia</string>
+    <string name="content_specs_display">
+        *Irisan labu\n
+        *Fillet Salmon\n
+        *Cabai Lombok
+    </string>
+    <string name="content_specs_size">Diameter 60 cm</string>
+    <string name="content_specs_battery">
+        *DESEMBERMERIAH Potongan 30% setiap membeli 3 pack\n
+        *GRABFOOD 15% setiap pembelian dengan OVO\n
+        *Beli 2 soda gratis donat\n
+        *PANTENGINTRUS potongan 10% setiap pembelian ke40\n
+        *Diskon 40% dengan pembayaran Mobile Banking\n
+        *Diskon 50% untuk pengguna pertama aplikasi
+    </string>
+    <string name="stock">Stock kurang dari 15</string>
+    <string name="specification">Detail</string>
+    <string name="display">Topping:</string>
+    <string name="size">Size:</string>
+    <string name="battery">Promo:</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Chandra Medhika</string>
+    <string name="buy">Beli</string>
+    <string name="avocadobiltong_value">Rp 50.000</string>
+    <string name="dummy_photos">6 photos</string>
+
+
+</resources>
